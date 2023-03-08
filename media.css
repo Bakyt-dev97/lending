@@ -1,0 +1,249 @@
+@media (max-width:1440px){}
+@media (max-width:1200px){
+    .header-logo h1 {
+        font-size: 33px;
+    }
+    .hero h1 {
+        font-size: 40px;
+    }
+
+    .navbar-img-1 {
+        width: 437px;
+        height: 424px;
+    }
+    .teble-img-2 {
+        height: 250px;
+    }
+    .teble-img-1 {
+        height: 250px;
+    }
+    .bron-block h2 {
+        margin: 0 37px;
+        font-size: 23px;
+    }
+    .bron-block-2 h3 {
+        font-size: 24px;
+    }
+
+    iframe{
+        width: 639px;
+        height: 376px;
+    }
+    .bron-block-2 h3 {
+        font-size: 22px;
+    }
+}
+@media (max-width:1024px){
+    .header-p p {
+        font-size: 12px;
+        width: 163px;
+    }
+    .header-title a {
+        font-size: 15px;
+    }
+    .navbar p {
+        font-size: 20px;
+    }
+    .navbar-img-1 {
+        width: 307px;
+        height: 331px;
+    }
+    .navbar p {
+        font-size: 15px;
+    }
+    .teble-img-1 {
+        height: 202px;
+    }
+    .teble-img-2 {
+        height: 202px;
+    }
+    .show-block2 {
+        width: 191px;
+    }
+    .show-block6 {
+        width: 183px;
+    }
+    .show-block9 {
+        width: 188px;
+    }
+    .show-block10 {
+        width: 206px;
+    }
+
+}
+@media (max-width:992px) {
+    .header-title a {
+        font-size: 13px;
+    }
+
+    .navbar p {
+        width: 516px;
+    }
+
+    .show-block {
+        width: 190px;
+    }
+
+    .show-block3 {
+        width: 198px;
+    }
+
+    .show-block5 {
+        width: 196px;
+    }
+
+    .show-block4 {
+        width: 194px;
+    }
+
+    .show-block7 {
+        width: 194px;
+    }
+
+    .show-block8 {
+        width: 198px;
+    }
+
+    .show-block10 {
+        width: 193px;
+    }
+
+    .show-block11 {
+        width: 194px;
+    }
+
+    .show-block12 {
+        width: 186px;
+    }
+
+    iframe {
+        width: 500px;
+        height: 376px;
+    }
+}
+@media (max-width:851px){
+    .header-title a {
+        font-size: 10px;
+    }
+    .navbar p {
+        width: 458px;
+    }
+    .teble-foto img {
+        padding: 89px 45px;
+    }
+    .teble-block-1 p {
+        font-size: 21px;
+    }
+    .teble-block h1 {
+        font-weight: 700;
+        font-size: 36px;
+    }
+    .hero h1 {
+        font-size: 35px;
+    }
+    .hero p {
+        font-weight: 500;
+        font-size: 20px;
+    }
+    .hero button {
+        width: 189px;
+    }
+    .navbar button {
+        width: 189px;
+    }
+    .bron-block {
+        padding-right: 139px;
+        margin-left: 129px;
+    }
+    .bron-block h2 {
+        margin: 0 27px;
+        font-size: 18px;
+    }
+    .show {
+        margin: 0 86px;
+    }
+    .bron-block-2 {
+        display: flex;
+        justify-content: center;
+    }
+    .bron-block-2 h3 {
+        margin: 0 15px;
+        font-size: 18px;
+    }
+    iframe{
+        width: 400px;
+        height: 250px;
+    }
+    .tassay p {
+        font-weight: 500;
+        font-size: 18px;
+    }
+    .bron-block-2 h3 {
+        padding: 0 0 20px 0;
+    }
+
+    /*.bron{*/
+    /*    width: 600px;*/
+    /*}*/
+
+
+}
+@media (max-width:768px){
+    .header-p p {
+        font-size: 10px;
+    }
+    .header-title a {
+        font-size: 8px
+    }
+    .header-logo h1 {
+        font-size: 28px;
+    }
+    .navbar p {
+        width: 345px;
+    }
+    .show {
+        margin: 0 49px;
+    }
+    .footer h1 {
+        font-size: 50px;
+    }
+    .hamburger-menu {
+        display: block;
+    }
+    .nav {
+        display: none;
+    }
+}
+@media (max-width:576px){
+    .navbar p {
+        width: 356px;
+    }
+    .navbar-img-1 {
+        width: 511px;
+    }
+    .navbar button {
+        margin: 70px 0 40px 0;
+    }
+    .teble-block-1 p {
+        font-size: 15px;
+    }
+    .teble-img-1 {
+        height: 154px;
+    }
+    .teble-img-2 {
+        height: 154px;
+    }
+    .teble-foto img {
+        width: 262px;
+    }
+    .teble-foto img {
+        width: 233px;
+    }
+
+}
+@media (max-width:450px){}
+@media (max-width:425px){}
+@media (max-width:415px){}
+@media (max-width:380px){}
+@media (max-width:350px){}
+@media (max-width:320px){}
